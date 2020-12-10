@@ -113,6 +113,6 @@ public class Main {
 
 
         System.out.println("");
-        System.out.println("Пока, следите за фигурой)");
+        //System.out.println("Пока, следите за фигурой)");
     }
 }
